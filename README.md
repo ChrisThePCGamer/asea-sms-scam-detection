@@ -1,4 +1,3 @@
-cat > README.md <<'EOF'
 # A.S.E.A. — SMS Scam Detection and Triage System
 
 A 12-class scam intent classifier for Philippine SMS messages, built to handle
