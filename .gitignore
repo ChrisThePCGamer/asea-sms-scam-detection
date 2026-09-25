@@ -1,0 +1,34 @@
+# Environments
+.venv/
+__pycache__/
+*.pyc
+
+# Secrets
+.streamlit/secrets.toml
+.env
+*serviceAccount*.json
+firebase*.json
+
+# User data / PII
+reported_numbers.csv
+history_store.json
+profile_store.json
+logs/
+.waylog/
+
+# Training runs and large weights
+asea/
+asea_best_model/*
+!asea_best_model/config.json
+!asea_best_model/meta.json
+!asea_best_model/special_tokens_map.json
+!asea_best_model/tokenizer_config.json
+
+# Build artifacts
+build/
+dist/
+ASEA.app/
+*.spec
+
+# macOS
+.DS_Store

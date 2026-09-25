@@ -1,0 +1,30 @@
+{
+  "label2id": {
+    "Bank Scam": 0,
+    "Commercial Spam": 1,
+    "Delivery Scam": 2,
+    "Gambling Scam": 3,
+    "Government Spoofing": 4,
+    "HAM": 5,
+    "Investment Scam": 6,
+    "Job Scam": 7,
+    "Loan Scam": 8,
+    "Pasaload Scam": 9,
+    "Prize Scam": 10,
+    "Raffle Scam": 11
+  },
+  "id2label": {
+    "0": "Bank Scam",
+    "1": "Commercial Spam",
+    "2": "Delivery Scam",
+    "3": "Gambling Scam",
+    "4": "Government Spoofing",
+    "5": "HAM",
+    "6": "Investment Scam",
+    "7": "Job Scam",
+    "8": "Loan Scam",
+    "9": "Pasaload Scam",
+    "10": "Prize Scam",
+    "11": "Raffle Scam"
+  }
+}
